@@ -1,0 +1,10 @@
+venv
+dataset
+models
+yolov8n.pt
+sort
+models
+dataset
+Videos
+.idea
+__pycache__
