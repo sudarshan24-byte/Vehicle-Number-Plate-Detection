@@ -4,6 +4,8 @@
 Vehicle License Plate Detection using Python, OpenCV, YOLOv8, EasyOCR and SORT
 
 
+## Model Used
+https://github.com/sudarshan24-byte/Vehicle-Number-Plate-Detection-Model
 
 ## Technologies
 
