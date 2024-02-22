@@ -1,5 +1,5 @@
 
-# Text Detection
+# Vehicle License Plate Detection
 
 Vehicle License Plate Detection using Python, OpenCV, YOLOv8, EasyOCR and SORT
 
